@@ -5,7 +5,7 @@
 - 基于Angular2的低代码项目：[Web-Editor](https://github.com/bojue/Web-Editor)
 - 基于Vue2的底图绘制工具：[BaseMap](https://github.com/bojue/BaseMap)
 - 基于canvas的表格预研项目：[canvas-excel](https://github.com/bojue/canvas-excel)
-- 基于Canvas的的可视化项目：[M-Charts](https://github.com/bojue/M-Charts)
+- 基于Canvas的可视化项目：[M-Charts](https://github.com/bojue/M-Charts)
 - tinyMCE下载word插件：[tinyMCE-export-word](https://github.com/bojue/tinyMCE-export-word)
 - ckeditor5下载word插件：[ckeditor5-download-word](https://github.com/bojue/ckeditor5-download-word)
 - Canvas锯齿优化画笔：[canvas-sketchpad](https://github.com/bojue/canvas-sketchpad)
