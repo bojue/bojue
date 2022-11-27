@@ -7,9 +7,12 @@
 - 基于Canvas的表格预研项目：[canvas-excel](https://github.com/bojue/canvas-excel)
 - 基于Canvas的可视化项目：[M-Charts](https://github.com/bojue/M-Charts)
 - Canvas锯齿优化画笔：[canvas-sketchpad](https://github.com/bojue/canvas-sketchpad)
-- tinyMCE下载word插件：[tinyMCE-export-word](https://github.com/bojue/tinyMCE-export-word)
-- ckeditor5下载word插件：[ckeditor5-download-word](https://github.com/bojue/ckeditor5-download-word)
 - 拖拽消除鬼影npm包：[remove-drag-ghosting](https://github.com/bojue/remove-drag-ghosting)
+
+> 开源 to Private
+
+- tinyMCE下载word插件：[tinyMCE-export-word](https://github.com/bojue/tinyMCE-export-word) (to private)
+- ckeditor5下载word插件：[ckeditor5-download-word](https://github.com/bojue/ckeditor5-download-word) (to private)
 
 > 💬 没刷榜,Tks
 
