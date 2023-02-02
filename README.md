@@ -3,7 +3,7 @@
 > 写过的开源项目：
 
 - 基于Angular2的低代码项目：[Web-Editor](https://github.com/bojue/Web-Editor)
-- 基于Vue2的底图绘制工具：[BaseMap](https://github.com/bojue/BaseMap)
+- 基于Vue2的底图绘制工具：[BaseMap](https://github.com/bojue/BaseMap) (PS推广途径：[科技爱好者周刊](https://github.com/ruanyf/weekly/issues/2243))
 - 基于Canvas的表格预研项目：[canvas-excel](https://github.com/bojue/canvas-excel)
 - 基于Canvas的可视化项目：[M-Charts](https://github.com/bojue/M-Charts)
 - Canvas锯齿优化画笔：[canvas-sketchpad](https://github.com/bojue/canvas-sketchpad)
