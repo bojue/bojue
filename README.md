@@ -11,8 +11,14 @@
 - ckeditor5下载word插件：[ckeditor5-download-word](https://github.com/bojue/ckeditor5-download-word)
 - <del>基于Angular2的低代码项目：[Web-Editor](https://github.com/bojue/Web-Editor)<del>
 
+> 目前工作内容
 
-> 💬 没刷榜,Tks
+- 基于数据模型的低代码产品搭建
+- Web组态编辑器产品化落地
+
+  18年搭建效果演示：[产品MVP DEMO 效果演示](https://www.bilibili.com/video/BV1oW4y1t7px/?vd_source=034415f0468861a710931e3467dc4d15)
+
+  DEMO在线演示：待更新
 
 <!--
 **bojue/bojue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
