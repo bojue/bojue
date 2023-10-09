@@ -18,7 +18,10 @@
 
   18年搭建效果演示：[产品MVP DEMO 效果演示](https://www.bilibili.com/video/BV1oW4y1t7px/?vd_source=034415f0468861a710931e3467dc4d15)
 
-  DEMO在线演示：待更新
+  DEMO在线演示：https://aistore.yichuansoft.com/dashboard#/workspace
+  ![42391696839358_ pic](https://github.com/bojue/bojue/assets/14350577/a452a9a8-8f49-4382-80dc-7e8ee1c46f61)
+
+  
 
 <!--
 **bojue/bojue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
