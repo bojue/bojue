@@ -9,7 +9,7 @@
 - 拖拽消除鬼影npm包：[remove-drag-ghosting](https://github.com/bojue/remove-drag-ghosting)
 - tinyMCE下载word插件：[tinyMCE-export-word](https://github.com/bojue/tinyMCE-export-word)
 - ckeditor5下载word插件：[ckeditor5-download-word](https://github.com/bojue/ckeditor5-download-word)
-- <del>基于Angular2的低代码项目：[Web-Editor](https://github.com/bojue/Web-Editor)<del>
+- <del>基于Angular2的低代码项目：[Web-Editor](https://github.com/bojue/Web-Editor)
 
 > 产品
 
