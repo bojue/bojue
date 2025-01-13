@@ -6,11 +6,6 @@
 - 基于Canvas的表格预研项目：[canvas-excel](https://github.com/bojue/canvas-excel)
 - 基于Canvas的可视化项目：[M-Charts](https://github.com/bojue/M-Charts)
 
-> 产品
-
-[DataSpace应用构建器](https://aistore.yichuansoft.com/dashboard)
-  
-
 <!--
 **bojue/bojue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
