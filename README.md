@@ -5,8 +5,7 @@
 - 基于Vue2的底图绘制工具：[BaseMap](https://github.com/bojue/BaseMap) 
 - 基于Canvas的表格预研项目：[canvas-excel](https://github.com/bojue/canvas-excel)
 - 基于Canvas的可视化项目：[M-Charts](https://github.com/bojue/M-Charts)
-
-> 插件
+- Ckeditor5编辑器下载Word插件 [ckeditor5-download-word](https://github.com/bojue/ckeditor5-download-word)
 - 百度Amis集成 Ng16 Demo：[NGX-AMIS-DEMO](https://github.com/bojue/ngx-amis-demo)
 
 <!--
