@@ -6,6 +6,9 @@
 - 基于Canvas的表格预研项目：[canvas-excel](https://github.com/bojue/canvas-excel)
 - 基于Canvas的可视化项目：[M-Charts](https://github.com/bojue/M-Charts)
 
+> 插件
+- 百度Amis集成 Ng16 Demo：[NGX-AMIS-DEMO](https://github.com/bojue/ngx-amis-demo)
+
 <!--
 **bojue/bojue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
