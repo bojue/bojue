@@ -3,9 +3,9 @@
 > 产品
 - 柠檬表单🍋 （已开源）：[在线预览](https://bojue.github.io/lemon-form/) 
 
-<img src="https://github.com/user-attachments/assets/2902022d-8276-44a0-86a8-984c9f09748e" style="width: 75%;">
+<img src="https://github.com/user-attachments/assets/8afe0a8b-3147-4769-8aa0-4077723b093b" style="width: 75%;">
 
-  
+
 
 > 写过的开源项目：
 - 基于Vue3的在线表单：柠檬表单🍋   [lemon-form](https://github.com/bojue/lemon-form)
