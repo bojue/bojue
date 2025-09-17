@@ -11,12 +11,14 @@
 
 > 产品 
 - Web Bulider / 柠檬表单🍋 （已开源）：[在线预览](https://bojue.github.io/lemon-form/)
-  
+
+[Web Bulder B站 DEMO 演示](https://www.bilibili.com/video/BV186pUzfEr1/?vd_source=034415f0468861a710931e3467dc4d15)
+
+
 <img width="48%"   alt="截屏2025-08-03 23 57 31" src="https://github.com/user-attachments/assets/9f952ea0-3dbd-46c7-9df9-03ab6505c4be" /> 
 <img width="48%" alt="截屏2025-07-25 17 45 45" src="https://github.com/user-attachments/assets/b29cc316-95f6-4ed8-92d8-d0aaf8fa69a2" />
 
   
-
 
 <!--
 **bojue/bojue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
