@@ -15,7 +15,7 @@
 [Web Bulder B站 DEMO 演示](https://www.bilibili.com/video/BV186pUzfEr1/?vd_source=034415f0468861a710931e3467dc4d15)
 
 
- <img width="48%"   alt="截屏2025-10-27 03 31 20" src="https://github.com/user-attachments/assets/4e3a73ca-aeae-4fe5-8e38-2f757af715d3" />
+<img  width="48%"  alt="截屏2025-10-27 03 33 04" src="https://github.com/user-attachments/assets/c181f733-c74a-42c2-a823-360e76b2ccfb" />
 
 
 <img width="48%" alt="截屏2025-07-25 17 45 45" src="https://github.com/user-attachments/assets/b29cc316-95f6-4ed8-92d8-d0aaf8fa69a2" />
