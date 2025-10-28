@@ -12,8 +12,7 @@
 > 产品 
 - Web Bulider / 柠檬表单🍋 （已开源）：[在线预览](https://bojue.github.io/lemon-form/)
 
-
-<img width="6972" height="3838" alt="截屏2025-10-27 03 46 03" src="https://github.com/user-attachments/assets/7ec6c850-6af6-4206-b9e0-d151b4b76514" />
+<img width="2560" height="1416" alt="截屏2025-10-28 13 01 35" src="https://github.com/user-attachments/assets/15bac150-e886-4b46-995b-7ac9380e744e" />
 
 <!-- <img width="48%" alt="截屏2025-07-25 17 45 45" src="https://github.com/user-attachments/assets/b29cc316-95f6-4ed8-92d8-d0aaf8fa69a2" /> -->
 
