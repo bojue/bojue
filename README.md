@@ -15,9 +15,6 @@
 
 <img width="6972" height="3838" alt="截屏2025-10-27 03 46 03" src="https://github.com/user-attachments/assets/7ec6c850-6af6-4206-b9e0-d151b4b76514" />
 
-
-<img width="6972" height="3838" alt="截屏2025-10-27 03 49 51" src="https://github.com/user-attachments/assets/52a2c229-9161-4b7e-8bc6-bc215696bdd2" />
-
 <!-- <img width="48%" alt="截屏2025-07-25 17 45 45" src="https://github.com/user-attachments/assets/b29cc316-95f6-4ed8-92d8-d0aaf8fa69a2" /> -->
 
  
