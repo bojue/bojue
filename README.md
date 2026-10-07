@@ -8,4 +8,9 @@
 * **[NocoKit](https://www.nocokit.cn)**: A No-Code digital creation platform for rapidly deploying premium forms, landing pages, and interactive dashboards.
 
 
+#### Hexo Theme
+
+* **[hexo-theme-claude](https://bojue.github.io/hexo-theme-claude-demo/)**: A content-first Hexo blog theme. Light mode only, styled with the Claude warm-clay palette
+
+
 
