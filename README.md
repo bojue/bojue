@@ -1,8 +1,7 @@
 #### In Research
 
 * **[AlphaSpace](https://www.nocokit.cn/3d/)**: A full-stack 3D digital twin platform powering visualization, interaction, and cost estimation for next-gen IDCs, embodied AI, and smart manufacturing.
-* **[SchemaCraft AI](https://nocokit.cn/schema/)**: A domain-driven metadata management platform serving as the underlying foundation for AI-powered semantic coding.
-
+* **[SchemaCraft AI](https://nocokit.cn/schema/)**: A Palantir-style domain ontology platform driven by natural language, bridging dynamic metadata and AI-powered ORM code generation.
 #### Current Project
 
 * **[WebSite SpeedTest](https://www.nocokit.cn/speedtest/)**: A comprehensive performance diagnostics and Real User Monitoring (RUM) platform designed for optimal Web user experience.
