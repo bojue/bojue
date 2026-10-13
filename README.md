@@ -11,7 +11,9 @@
 * **[Copy Web Page](http://clone.nocokit.cn)**: A pixel-perfect UI cloning tool to effortlessly capture and replicate complex web styles.
 * **[NocoKit](https://www.nocokit.cn)**: A No-Code digital creation platform for rapidly deploying premium forms, landing pages, and interactive dashboards.
 
+#### Study
 
+* **[Web Study](https://www.nocokit.cn/study/)**: A curated frontend learning hub and knowledge base tracking modern web technologies, engineering practices, and interactive coding snippets.
 
 #### Hexo Theme
 
