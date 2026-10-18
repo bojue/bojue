@@ -6,7 +6,8 @@
 
 * **[WebSite SpeedTest](https://www.nocokit.cn/speedtest/)**: A comprehensive performance diagnostics and Real User Monitoring (RUM) platform designed for optimal Web user experience.
 * **[MailCraft](https://nocokit.cn/mail/)**: An intuitive visual email builder for crafting responsive, high-converting HTML templates.
-* **[NoCo Form](http://form.nocokit.cn/)**: A high-performance dynamic form engine delivering flexible configuration and rich interactive capabilities.
+* **[NocoForm](https://nocokit.cn/form/)**: A high-performance dynamic form engine delivering flexible configuration and rich interactive capabilities.
+* **[NocoPage](https://www.nocokit.cn/page/)**: A drag-and-drop page builder that turns components into live websites in minutes.
 * **[Copy Web Page](http://clone.nocokit.cn)**: A pixel-perfect UI cloning tool to effortlessly capture and replicate complex web styles.
 * **[NocoKit](https://www.nocokit.cn)**: A No-Code digital creation platform for rapidly deploying premium forms, landing pages, and interactive dashboards.
 
