@@ -14,10 +14,6 @@
 
 A modern web application built on Markdown and Nginx to streamline documentation and PDF generation.
 
-#### Study
-
-* **[Web Study](https://www.nocokit.cn/study/)**: A curated frontend learning hub and knowledge base tracking modern web technologies, engineering practices, and interactive coding snippets.
-
 #### Hexo Theme
 
 * **[hexo-theme-claude](https://bojue.github.io/hexo-theme-claude-demo/)**: A content-first Hexo blog theme. Light mode only, styled with the Claude warm-clay palette
